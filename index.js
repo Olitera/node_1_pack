@@ -1,3 +1,7 @@
+const { version } = require('./package.json');
+
+console.log(`Welcome to RPN Calculator! Version: ${version}`)
+
 function calculateRPN(expression) {
   const stack = [];
   const items = expression.split(' ');
