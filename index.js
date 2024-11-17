@@ -34,3 +34,5 @@ function calculateRPN(expression) {
 
   return stack.pop();
 }
+
+module.exports = calculateRPN;
