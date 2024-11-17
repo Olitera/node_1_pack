@@ -1,0 +1,10 @@
+{
+  "name": "node_1_pack",
+  "version": "1.0.0",
+  "description": "homework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olitera/node_1_pack.git"
+  },
+  "author": "Melayok"
+}
